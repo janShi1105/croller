@@ -1,0 +1,26 @@
+[2022-05-14 20:34:48,012: WARNING/MainProcess] /Users/kazuyaaoki/.pyenv/versions/3.10.3/lib/python3.10/site-packages/celery/app/control.py:56: DuplicateNodenameWarning: Received multiple replies from node name: download@aokikazuyanoMacBook-Pro.local.
+Please make sure you give each node a unique nodename using
+the celery worker `-n` option.
+  warnings.warn(DuplicateNodenameWarning(
+
+[2022-05-14 20:34:48,117: INFO/ForkPoolWorker-1] [cut_mp3 start] 03SonatinePourPianoMr40-Modr.mp3
+[2022-05-14 20:34:48,119: INFO/ForkPoolWorker-2] [cut_mp3 start] 04MouvementDeMenuet.mp3
+[2022-05-14 20:34:51,754: INFO/ForkPoolWorker-3] [cut_mp3 start] 01PavanePourUneInfanteDfuntePourPianoMr19.mp3
+[2022-05-14 20:34:51,837: INFO/ForkPoolWorker-4] [cut_mp3 start] 02JeuxDeauPourPianoMr30.mp3
+[2022-05-14 20:34:52,823: INFO/ForkPoolWorker-5] [cut_mp3 start] 04MouvementDeMenuet.mp3
+[2022-05-14 20:34:52,830: INFO/ForkPoolWorker-6] [cut_mp3 start] 03SonatinePourPianoMr40-Modr.mp3
+[2022-05-14 20:34:53,516: INFO/ForkPoolWorker-7] [cut_mp3 start] 05Anim.mp3
+[2022-05-14 20:35:13,564: INFO/ForkPoolWorker-8] [cut_mp3 start] 03SonatinePourPianoMr40-Modr.mp3
+[2022-05-14 20:35:26,086: INFO/ForkPoolWorker-10] [cut_mp3 start] 02JeuxDeauPourPianoMr30.mp3
+[2022-05-14 20:35:27,346: INFO/ForkPoolWorker-11] [cut_mp3 start] 01PavanePourUneInfanteDfuntePourPianoMr19.mp3
+[2022-05-14 20:35:28,590: INFO/ForkPoolWorker-12] [cut_mp3 start] 04MouvementDeMenuet.mp3
+[2022-05-14 20:35:51,039: INFO/ForkPoolWorker-13] [cut_mp3 start] 05Anim.mp3
+[2022-06-07 19:20:54,750: WARNING/MainProcess] /Users/kazuyaaoki/.pyenv/versions/3.10.3/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:367: CPendingDeprecationWarning: 
+In Celery 5.1 we introduced an optional breaking change which
+on connection loss cancels all currently executed tasks with late acknowledgement enabled.
+These tasks cannot be acknowledged as the connection is gone, and the tasks are automatically redelivered back to the queue.
+You can enable this behavior using the worker_cancel_long_running_tasks_on_connection_loss setting.
+In Celery 5.1 it is set to False by default. The setting will be set to True by default in Celery 6.0.
+
+  warnings.warn(CANCEL_TASKS_BY_DEFAULT, CPendingDeprecationWarning)
+

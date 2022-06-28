@@ -1,0 +1,576 @@
+  
+  
+<!DOCTYPE HTML>
+<html lang="ja">
+  <head>
+    <script>
+var dataLayer = dataLayer || [];
+  dataLayer.push({
+    'trackPageview':'SECOJP/book/kurashi',
+    'member' : 'nonmember',
+  });
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PS58RX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PS58RX');</script>
+<!-- End Google Tag Manager -->
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="Imagetoolbar" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>暮らしの図鑑｜翔泳社の本</title>
+    <meta name="Keywords" content="翔泳社,暮らしの図鑑,生活,実用書,ライフスタイル">
+    <meta name="Description" content="暮らしを豊かにする、私らしいモノ・コトの見つけ方。">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@shoeisha">
+    <meta name="twitter:creator" content="@shoeisha">
+        <meta property="og:title" content="暮らしの図鑑｜翔泳社の本">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://www.shoeisha.co.jp/book/kurashi">
+    <meta property="og:image" content="https://cdn.shoeisha.jp/secojp/static/images/freepage/50/kurashi.OGP.jpg" />
+    <meta property="og:site_name" content="Shoeisha">
+    <meta property="og:description" content="暮らしを豊かにする、私らしいモノ・コトの見つけ方。">
+    <meta property="fb:admins" content="100002509171990">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link href="/assets/css/books.css" rel="stylesheet" type="text/css">
+    <link href="/assets/css/bootstrap4.css" rel="stylesheet" type="text/css">
+
+    
+    <!-- Cxense script start -->
+<script type="text/javascript">
+  var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+  cX.CCE = cX.CCE || {}; cX.CCE.callQueue = cX.CCE.callQueue || [];
+  var cx_props = cx_props || {}; cx_props['k'] = [];
+  var cpl = [];
+  var spl = [];
+  cX.callQueue.push(['invoke', function() {
+    var cp = {}, sa = {};
+    var cpMaxLen = 40;
+    var cpKeyLen = 20;
+    try{
+      var refhost = cX.library._findRealReferrer().split('/')[2];
+      if(refhost && location.hostname !== refhost) {
+        cp["referrer_host"] = sa["referrer_host_S"] = refhost.slice(0,cpMaxLen);
+      }
+    }catch(e){}
+    var u = ["utm_source", "utm_medium", "utm_term", "utm_content", "utm_campaign"];
+    if((typeof(spl) !== "undefined") && (Object.prototype.toString.call(spl) === "[object Array]")) {
+      Array.prototype.push.apply(u, spl);
+    }
+    if(location.search) location.search.substring(1).split("&").forEach(function(k){
+      try{
+        var v = k.split("=");
+        if(v[0].slice(0,3)==="cx_" && v[1]) {
+          sa[v[0].replace(/^cx_/,"")+"_S"] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        } else if(u.indexOf(v[0].toLowerCase())!==-1 && v[1]) {
+          cp[v[0].toLowerCase().slice(0,cpKeyLen)] = sa[v[0].toLowerCase()+"_S"] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        } else if((typeof(cpl) !== "undefined") && (Object.prototype.toString.call(cpl) === "[object Array]") && (cpl.indexOf(v[0].toLowerCase())!==-1 && v[1])) {
+          cp[v[0].toLowerCase().slice(0,cpKeyLen)] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        }
+      }catch(e){}
+    });
+    if(!cX.getUserId(false)) {
+      cp["newuser"] = sa["newuser_S"] = "true";
+    }
+    else {
+      try{
+        var t = new Date().getTime() - parseInt(cX.library.m_atfr.match(/altm=(\d+)/)[1]);
+        if (t >= 1000*60*30) {
+          cX.stopAllSessionAnnotations();
+          var da = Math.floor(t/(1000*60*60*24));
+          if(da < 1) {
+            cp["elapsed"] = sa["elapsed_S"] = "\u0031\u65E5\u4EE5\u5185";
+          } else if(da < 7) {
+            cp["elapsed"] = sa["elapsed_S"] = String(da)+"\u65E5\u3076\u308A";
+          } else if(da < 31) {
+            cp["elapsed"] = sa["elapsed_S"] = String(Math.floor(da/7))+"\u9031\u9593\u3076\u308A";
+          } else if(da < 365) {
+            cp["elapsed"] = sa["elapsed_S"] = String(Math.floor(da/31))+"\u30F6\u6708\u3076\u308A";
+          } else {
+            cp["elapsed"] = sa["elapsed_S"] = "1\u5E74\u4EE5\u4E0A";
+          }
+        }
+      } catch(e) {}
+    }
+    var cx_eu = cX.getCookie('eu');
+    if (cx_eu){
+        cX.setCustomParameters({'status': 'login'});
+        cX.addExternalId({'id': cx_eu, 'type': 'sho'});
+    }
+    if (typeof eU !== 'undefined' && typeof eU.isLoggingIn === 'function') {
+        cX.setCustomParameters({'logging_in': eU.isLoggingIn()});
+    }
+    var cx_op = cX.getCookie('cx_op');
+    if (cx_op) {
+        cX.setCustomParameters({'optin_url': cx_op});
+    }
+
+    var originalRef=document.referrer;
+    if(originalRef.match(/faeb92b469b40c9d72e4-dc920caace12a27e58d45a42e86d29a2\.ssl\.cf2\.rackcdn\.com\/generic_v[0-9]+\.html/) || originalRef.match(/cdn\.cxpublic\.com\/generic_v[0-9]+\.html/)){
+        sa["cx_source_S"] = "cxrecs";
+    }
+    if(Object.keys(cp).length>0) {
+      cX.setCustomParameters(cp);
+    }
+    if(Object.keys(sa).length>0) {
+      cX.startSessionAnnotation(sa);
+    }
+    try {
+      "newuser_S" in cX.library._getSessionAnnotations() && cx_props['k'].push("newuser");
+    } catch(e) {}
+  }]);
+  cX.callQueue.push(['setSiteId', '1142970223097374056']);
+  cX.CCE.callQueue.push(['sendPageViewEvent']);
+
+</script>
+<script type="text/javascript">
+    var cX = window.cX = window.cX || {}; cX.callQueue = cX.callQueue || [];
+    cX.CCE = cX.CCE || {}; cX.CCE.callQueue = cX.CCE.callQueue || [];
+    (function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';e.src='https://cdn.cxense.com/cx.cce.js';t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+<!-- Cxense script end -->
+<!-- Cxense Customized script start -->
+<script type="text/javascript">
+  window.cXcustom = window.cXcustom || function() {(window.cXcustom.q = window.cXcustom.q || []).push(arguments)};
+  cX.callQueue.push(['invoke', function() {
+    var cx_reading_params = {origin: "sho-web", persistedQueryId: "15407cc43187c9b0981171abc4e9b4dc4e1d7c22"};
+    cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_entire_page:String(pos)+'%'}, cx_reading_params);} , 0, '', false, 1000);
+    cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_in_article:String(pos)+'%'}, cx_reading_params);}, 1, 'container_contents', true, 1000);
+    //    cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_in_articleBottom:String(pos)+'%'}, cx_reading_params);} , 2, 'top-menu', false, 1000);
+    cX.loadScript("/assets/js/cx-custom.js");
+  }]);
+</script>
+<!-- Cxense Customized script end -->
+    <!-- Facebook Pixel Code -->
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '1704151296468367'); fbq('track', 'PageView');</script><noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=1704151296468367&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->    
+
+  </head>
+  <body id="pagetop">
+    <div id="fb-root"></div>
+
+    <style type="text/css">
+
+</style>
+
+<link href="https://fonts.googleapis.com" rel="preconnect" />
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;500;700&display=swap" rel="stylesheet" />
+<link href="//cdn.shoeisha.jp/secojp/static/images/freepage/50/css/all.css" rel="stylesheet" type="text/css" />
+<link href="//cdn.shoeisha.jp/secojp/static/images/freepage/50/css/slick.scss" rel="stylesheet" type="text/css" />
+<link href="//cdn.shoeisha.jp/secojp/static/images/freepage/50/css/slick-theme.css" rel="stylesheet" type="text/css" />
+<link href="//cdn.shoeisha.jp/secojp/static/images/freepage/50/css/kurashi.css" rel="stylesheet" type="text/css" />
+<script src="//cdn.shoeisha.jp/secojp/static/images/freepage/50/js/jquery-3.4.1.min.js"></script><script src="//cdn.shoeisha.jp/secojp/static/images/freepage/50/js/bootstrap.js"></script><script src="//cdn.shoeisha.jp/secojp/static/images/freepage/50/js/jquery.bgswitcher.js"></script><script src="//cdn.shoeisha.jp/secojp/static/images/freepage/50/js/slick.js"></script><script>
+jQuery(function($) {
+    $('.bg-slider').bgSwitcher({
+        images: ['//cdn.shoeisha.jp/secojp/static/images/freepage/50/images/1_re.jpg','//cdn.shoeisha.jp/secojp/static/images/freepage/50/images/2_re.jpg','//cdn.shoeisha.jp/secojp/static/images/freepage/50/images/3_re.jpg','//cdn.shoeisha.jp/secojp/static/images/freepage/50/images/4_re.jpg','//cdn.shoeisha.jp/secojp/static/images/freepage/50/images/5_re.jpg','//cdn.shoeisha.jp/secojp/static/images/freepage/50/images/6_re.jpg'], 
+    });
+});
+		
+$(function(){
+  $(".fade-img img:not(:first-child)").hide();
+  setInterval(function() {
+    $(".fade-img img:first-child").fadeOut("slow").next("img").fadeIn("slow").end().appendTo(".fade-img");
+  },5000);
+});
+</script>
+<div id="kurashi">
+  <div class="bg-slider mb-3">
+    <div class="container">
+      <h1 class="bg-slider__title"></h1>
+    </div>
+  </div>
+  <div class="container">
+    <section>
+      <h2>暮らしの図鑑<br />
+        私らしい、モノ・コトの見つけ方。</h2>
+    </section>
+    <section>
+      <div class="container">
+        <h2>About</h2>
+        <p>私たちの暮らしを形作る、さまざまなモノやコト。自分で選んだものは、日々をより豊かにしてくれます。 「暮らしの図鑑」シリーズは、本当にいいものを取り入れ、自分らしい暮らしを送りたい人に向けた本です。 使い方のアイデアや、選ぶことが楽しくなる基礎知識をグラフィカルにまとめました。 お仕着せではない、私らしいモノ・コトの見つけ方のヒントが詰まった一冊です。</p>
+      </div>
+    </section>
+    <div id="NewRelease">
+    </div>
+    <section>
+      <h2>Line up</h2>
+      <ul class="slider">
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798173153"><img alt="" src="https://www.seshop.com/static/images/product/24880/L.png" /></a>
+        </li>
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798171081"><img alt="" src="https://www.seshop.com/static/images/product/24802/L.png" /></a>
+        </li>
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798169798"><img alt="" src="https://www.seshop.com/static/images/product/24225/L.png" /></a>
+        </li>
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798170671"><img alt="" src="https://www.seshop.com/static/images/product/24596/L.png" /></a>
+        </li>
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798169293"><img alt="" src="https://www.seshop.com/static/images/product/24307/L.png" /></a>
+        </li>
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798165158"><img alt="" src="https://www.seshop.com/static/images/product/24110/L.png" /></a>
+        </li>
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798165455"><img alt="" src="https://www.seshop.com/static/images/product/24099/L.png" /></a>
+        </li>
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798164878"><img alt="" src="https://www.seshop.com/static/images/product/23718/L.png" /></a>
+        </li>
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798163123"><img alt="" src="https://www.seshop.com/static/images/product/23359/L.png" /></a>
+        </li>
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798161358"><img alt="" src="https://www.seshop.com/static/images/product/22972/L.png" /></a>
+        </li>
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798160290"><img alt="" src="https://www.seshop.com/static/images/product/22777/L.png" /></a>
+        </li>
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798159805"><img alt="image06" src="https://www.seshop.com/static/images/product/22619/L.png" /></a>
+        </li>
+        <li>
+          <a href="https://www.shoeisha.co.jp/book/detail/97847981598125"><img alt="" src="https://www.seshop.com/static/images/product/22620/L.png" /></a>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h2>Information</h2>
+      <div class="row">
+        <div class="col-3">
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798173153"><img class="img-fluid mx-auto d-block" src="https://www.seshop.com/static/images/product/24880/L.png" /></a>
+        </div>
+        <div class="col-9">
+          <a href="https://www.shoeisha.co.jp/book/detail/9784798173153">
+          <h3>2022年03月09日 発売<br />
+            暮らしの図鑑 庭の楽しみ 小さな庭・ベランダで自然を感じる工夫×草木花・アイテム125×基礎知識</h3>
+          </a>
+          <p>お家で自然と触れ合える 庭という楽しみ</p>
+          <p>自宅にこもりがちな日々で、グリーンや花など、
+自然とともに暮らしたいと考える人が増えています。
+観葉植物を新しく買ったり、キャンプやグランピングを
+新しい趣味にしたという方もいるでしょう。
+
+本書は、自宅の庭やちょっとしたスペース、ベランダやバルコニーを使って、
+自然を感じるための工夫やアイデアを集めた1冊です。</p>
+          <p>書籍情報<br />
+            ISBN：9784798173153<br />
+            定価：1,980円（本体1,800円＋税10%）<br />
+            仕様：A5変・240ページ<br />
+            <a href="https://www.shoeisha.co.jp/book/detail/9784798173153">https://www.shoeisha.co.jp/book/detail/9784798173153</a></p>
+        </div>
+      </div>
+    </section>
+        <section>
+      <h2>Instagram</h2>
+      <p>暮らしを楽しむ本_翔泳社 <a href="https://www.instagram.com/kurashi_hon/" target="_blank">@kurashi_hon</a><br />
+        『暮らしの図鑑』シリーズをはじめ、翔泳社がお届けする、暮らしを楽しむための書籍をご紹介します。</p>
+      <div class="row">
+                <div class="col-6 col-md-4">
+          <a href="https://www.instagram.com/p/Cc2CR2xPYXA/" target="_blank"><img alt="" class="img-fluid mx-auto d-block mb-3" src="https://scontent-nrt1-1.cdninstagram.com/v/t51.29350-15/279118288_732868341174028_6727350126441541044_n.jpg?_nc_cat=109&amp;ccb=1-5&amp;_nc_sid=8ae9d6&amp;_nc_ohc=c5QZn44CB2sAX-VdW0F&amp;_nc_ht=scontent-nrt1-1.cdninstagram.com&amp;edm=AL-3X8kEAAAA&amp;oh=00_AT9f0lCZvYaMXDH1x6_27ny6COmevrhBnSK9jwSbtUbrWg&amp;oe=6277BDA8" /></a>
+        </div>
+                <div class="col-6 col-md-4">
+          <a href="https://www.instagram.com/p/CckQuCkPPAV/" target="_blank"><img alt="" class="img-fluid mx-auto d-block mb-3" src="https://scontent-nrt1-1.cdninstagram.com/v/t51.29350-15/278870717_380563694136972_9080059672544004137_n.jpg?_nc_cat=107&amp;ccb=1-5&amp;_nc_sid=8ae9d6&amp;_nc_ohc=UaIJHm5W4g0AX8yF8V_&amp;_nc_ht=scontent-nrt1-1.cdninstagram.com&amp;edm=AL-3X8kEAAAA&amp;oh=00_AT8wpMr6qNXAQnoEaMYgRmV_gepiEFGuLogq_jnNhBbiag&amp;oe=62789653" /></a>
+        </div>
+                <div class="col-6 col-md-4">
+          <a href="https://www.instagram.com/p/CcWii1cvspF/" target="_blank"><img alt="" class="img-fluid mx-auto d-block mb-3" src="https://scontent-nrt1-1.cdninstagram.com/v/t51.29350-15/278472172_1148389109228782_813069103656030455_n.jpg?_nc_cat=106&amp;ccb=1-5&amp;_nc_sid=8ae9d6&amp;_nc_ohc=56-3n4W990IAX_zuyYz&amp;_nc_ht=scontent-nrt1-1.cdninstagram.com&amp;edm=AL-3X8kEAAAA&amp;oh=00_AT8rq0IE7l8UtAZd1KxXf583ERGKzlvN0NVFgf7VXQsksw&amp;oe=6278034D" /></a>
+        </div>
+                <div class="col-6 col-md-4">
+          <a href="https://www.instagram.com/p/Cb86OC8PmWq/" target="_blank"><img alt="" class="img-fluid mx-auto d-block mb-3" src="https://scontent-nrt1-1.cdninstagram.com/v/t51.29350-15/277866252_4783231531785622_3914524786441728951_n.jpg?_nc_cat=100&amp;ccb=1-5&amp;_nc_sid=8ae9d6&amp;_nc_ohc=GLcGRsbYDFwAX_NDZH4&amp;_nc_ht=scontent-nrt1-1.cdninstagram.com&amp;edm=AL-3X8kEAAAA&amp;oh=00_AT-76zm5YrR2QktYqN5Ko0zgQOC1xUXXjAJepChpWJzOAQ&amp;oe=627724C7" /></a>
+        </div>
+                <div class="col-6 col-md-4">
+          <a href="https://www.instagram.com/p/CbO_Cv4PS7_/" target="_blank"><img alt="" class="img-fluid mx-auto d-block mb-3" src="https://scontent-nrt1-1.cdninstagram.com/v/t51.29350-15/276040046_710468446792398_1400385210865007026_n.jpg?_nc_cat=107&amp;ccb=1-5&amp;_nc_sid=8ae9d6&amp;_nc_ohc=18r7G0m5uioAX9NtHTJ&amp;_nc_ht=scontent-nrt1-1.cdninstagram.com&amp;edm=AL-3X8kEAAAA&amp;oh=00_AT-lM6mkLAbx26E9_Eo9bVfyNZMEsj120WshhdfvDcPJxg&amp;oe=6278010D" /></a>
+        </div>
+                <div class="col-6 col-md-4">
+          <a href="https://www.instagram.com/p/Ca9AS9QPJcW/" target="_blank"><img alt="" class="img-fluid mx-auto d-block mb-3" src="https://scontent-nrt1-1.cdninstagram.com/v/t51.29350-15/275648049_1087697425130314_8303360341270655617_n.jpg?_nc_cat=108&amp;ccb=1-5&amp;_nc_sid=8ae9d6&amp;_nc_ohc=kz6ewJSblgYAX8o563a&amp;_nc_ht=scontent-nrt1-1.cdninstagram.com&amp;edm=AL-3X8kEAAAA&amp;oh=00_AT9Lm38Tntl03sR7Bzwq4-__VaFI8IQDZpbIkjuHpzZu3w&amp;oe=62785ED6" /></a>
+        </div>
+              </div>
+    </section>
+        <div class="container">
+      <div class="snsbt clearfix">
+        <a href="https://twitter.com/shoeisha_books" target="_blank" title="Twitter"><i class="fab fa-twitter-square" style="color: #2EA5DE;"></i></a> <a href="https://www.facebook.com/kurashi.hon" target="_blank" title="暮らしの図鑑"> <i class="fab fa-facebook-square" style="color: #2E4F95"></i></a> <a href="https://www.instagram.com/kurashi_hon/" target="_blank"><i class="fab fa-instagram" style="background: linear-gradient(90deg, rgba(253,162,24,1) 0%, rgba(244,0,2,1) 52%, rgba(196,0,147,1) 100%);
+;-webkit-background-clip: text; color: transparent;"></i></a>
+      </div>
+    </div>
+    <script>jQuery(function($){
+    $('.slider').slick({
+		autoplay:true,
+		autoplaySpeed:5000,
+		dots:false,
+		slidesToShow:4,
+		responsive:[
+			{
+				breakpoint: 1024,
+				settings:{
+					slidesToShow:3,
+				}
+			},
+			{
+				breakpoint: 768,
+				settings:{
+					slidesToShow:2,
+				}
+			},
+			{
+				breakpoint: 480,
+				settings:{
+					slidesToShow:1,
+				}
+			},
+		]
+    });
+});</script>
+  </div>
+</div>
+<br />
+
+
+
+    <footer>
+            <div class="container support_link">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" href="#footer-press">お知らせ
+                  <span class="caret"></span>
+                </a>
+              </div>
+              <div id="footer-press" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <ul>
+                    <li>
+                      <a href="/press/detail/500">翔泳社書籍取り扱いオンラインストアのご案内</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" href="#support">読者の皆様へ
+                  <span class="caret"></span>
+                </a>
+              </div>
+              <div id="support" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <ul>
+                    <li>
+                      <a href="/book/errata">正誤表</a>
+                    </li>
+                    <li>
+                      <a href="/book/faq">よくある質問</a>
+                    </li>
+                    <li>
+                      <a href="/book/qa">刊行物Ｑ＆Ａ</a>
+                    </li>
+                    <li>
+                      <a href="/book/download">ダウンロード</a>
+                    </li>
+                    <li>
+                      <a href="/article">コラム</a>
+                    </li>
+                    <li>
+                      <a href="/ml">メールマガジン</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" href="#custmor">書店・法人様
+                  <span class="caret"></span>
+                </a>
+              </div>
+              <div id="custmor" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <ul>
+                    <li>
+                      <a href="/bookstore">書店様</a>
+                    </li>
+                    <li>
+                      <a href="/biz">企業・教育機関様</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+      </div>
+            <div class="link">
+       <div class="container">
+          <div class="row">
+            <div class="col-md-3">
+              <h2>会社情報</h2>
+              <ul>
+                <li>
+                  <a href="/">TOP</a>
+                </li>
+                <li>
+                  <a href="/about">会社案内</a>
+                </li>
+                 <li>
+                  <a href="/mission">企業理念</a>
+                </li>
+                <li>
+                  <a href="/service">サービス案内</a>
+                </li>
+                <li>
+                  <a href="/press">お知らせ</a>
+                </li>
+                <li>
+                  <a href="/ir">IR情報</a>
+                </li>
+                <li>
+                  <a href="/map">アクセス</a>
+                </li>
+                <li>
+                  <a href="/recruit">採用情報</a>
+                </li>
+                <li class="last">
+                  <a href="/contact">お問い合わせ</a>
+                </li>
+                <li>
+                  <a href="/privacy">個人情報保護</a>
+                </li>
+                <li>
+                  <a href="/exemption">免責事項</a>
+                </li>
+                <li>
+                  <a href="/privacy/social-policy/">SNS利用ポリシー</a>
+                </li>
+                <li>
+                 <a href="/social-media/">SNSアカウント一覧</a>
+                </li>
+                  
+                 <li>
+                  <a href="/toauthors">著作者様へ</a>
+                </li>
+                <li>
+                  <a href="https://shoeisha.jp" target="_blank">SHOEISHA iD</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2>運営サイト</h2>
+              <ul>
+                <li>
+                  <a href="/book/">本</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://codezine.jp/">プログラミング</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://enterprisezine.jp/">企業ITとマネジメント</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://markezine.jp/">マーケティング</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://moneyzine.jp/">株式投資</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://selectbox.shoeisha.jp/">ホワイトペーパー</a>
+                </li>
+                <li >
+                  <a target="_blank" href="https://eczine.jp/">ECマーケティング</a>
+                </li>
+                <li >
+                  <a target="_blank" href="https://bizzine.jp/">イノベーション</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://hrzine.jp/">人事</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://edtechzine.jp/">教育ICT</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://saleszine.jp/">セールス</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://event.shoeisha.jp/">イベント・セミナー</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.shoeisha.co.jp/ad/">広告掲載のご案内</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2>直販サイト</h2>
+              <ul>
+                <li>
+                  <a target="_blank" href="https://www.seshop.com/">SEshop.com</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2>グループ企業</h2>
+              <ul>
+                <li>
+                  <a target="_blank" href="http://www.sehi.co.jp/">SE H&amp;I</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.shoeishaacademy.co.jp/">翔泳社アカデミー</a>
+                  <ul style="list-style-type:disc;margin: 0 0 0 1.5em;">
+                        <li style="margin: 5px;">
+                          <a target="_blank" href="https://www.denken3.com/">電験三種</a>
+                        </li>
+                        <li style="margin: 5px;">
+                          <a target="_blank" href="https://www.denkou.info/">電気工事士講座</a>
+                        </li>
+                        <li style="margin: 5px;">
+                          <a target="_blank" href="https://www.denkou.info/kouza/denkou1/">第一種電気工事士</a>
+                        </li>
+                        <li  style="margin: 5px;">
+                          <a target="_blank" href="https://www.denkou.info/kouza/denkou2/">第二種電気工事士</a>
+                        </li>
+                  </ul>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.seplus.jp/">SEプラス</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5">
+            <div class="copyright">Copyright © 1985-2022 SHOEISHA, All rights reserved.</div>
+          </div>
+          <div class="col-md-7 companybanner">
+            <div class=" pull-right">
+              <a href="https://privacymark.jp/" target="_blank"><img alt="" src="/static/common/images/new/logos/logo-pm.svg"></a>
+              <a href="http://www.sehi.co.jp/" target="_blank"><img alt="" src="/static/common/images/ToshoStandardSEHIG_land.png"></a>
+              <img alt="" src="/static/common/images/abj_w.png"  style="display: inline;">
+              <p style="display: inline;float: right;width: 32%;font-size: 0.7rem;">ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標（登録番号 第12291000号）です。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <p id="page-top">
+      <a href="#pagetop">
+        <i class="fas fa-angle-up"></i>
+      </a>
+    </p>
+    <!-- TemplateEnd -->
+  </body>
+</html>

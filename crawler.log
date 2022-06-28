@@ -1,0 +1,18 @@
+[ERROR] 2022-05-08 16:30:46,725 __main__ logging_sample.py:33 Not Found(logging_example)
+[ERROR] 2022-05-08 16:30:46,728 __main__ logging_sample.py:38 Threw Error during requests: MissingSchema("Invalid URL '#invalid_url': No scheme supplied. Perhaps you meant http://#invalid_url?")(logging_example)
+Traceback (most recent call last):
+  File "/Users/kazuyaaoki/Desktop/programming/croller/logging_sample.py", line 36, in logging_example
+    r = requests.get('#invalid_url', timeout=1)
+  File "/Users/kazuyaaoki/.pyenv/versions/3.10.3/lib/python3.10/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/kazuyaaoki/.pyenv/versions/3.10.3/lib/python3.10/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/kazuyaaoki/.pyenv/versions/3.10.3/lib/python3.10/site-packages/requests/sessions.py", line 515, in request
+    prep = self.prepare_request(req)
+  File "/Users/kazuyaaoki/.pyenv/versions/3.10.3/lib/python3.10/site-packages/requests/sessions.py", line 443, in prepare_request
+    p.prepare(
+  File "/Users/kazuyaaoki/.pyenv/versions/3.10.3/lib/python3.10/site-packages/requests/models.py", line 318, in prepare
+    self.prepare_url(url, params)
+  File "/Users/kazuyaaoki/.pyenv/versions/3.10.3/lib/python3.10/site-packages/requests/models.py", line 392, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL '#invalid_url': No scheme supplied. Perhaps you meant http://#invalid_url?

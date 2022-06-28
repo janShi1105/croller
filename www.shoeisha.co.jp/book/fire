@@ -1,0 +1,584 @@
+  
+  
+<!DOCTYPE HTML>
+<html lang="ja">
+  <head>
+    <script>
+var dataLayer = dataLayer || [];
+  dataLayer.push({
+    'trackPageview':'SECOJP/book/fire',
+    'member' : 'nonmember',
+  });
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PS58RX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PS58RX');</script>
+<!-- End Google Tag Manager -->
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="Imagetoolbar" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>危険物乙4、ボイラー技士、消防設備士の「炎シリーズ」｜テキスト＆問題集</title>
+    <meta name="Keywords" content="乙種第4類危険物取扱者,2級ボイラー技士,消防設備士第6類,参考書,テキスト,問題集,漫画,図解,解説">
+    <meta name="Description" content="炎シリーズは、「勉強だって全力で取り組みたい！」という熱い資格試験受験者のために用意したテキスト＆問題集です。
+現在、「乙種第4類危険物取扱者」「2級ボイラー技士」「消防設備士第6類」の3試験に対応したテキスト＆問題集が発売中。">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@shoeisha">
+    <meta name="twitter:creator" content="@shoeisha">
+        <meta property="og:title" content="危険物乙4、ボイラー技士、消防設備士の「炎シリーズ」｜テキスト＆問題集">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://www.shoeisha.co.jp/book/fire">
+    <meta property="og:image" content="https://cdn.shoeisha.jp/secojp/static/images/freepage/48/honooLP_OGP_1200_630.png" />
+    <meta property="og:site_name" content="Shoeisha">
+    <meta property="og:description" content="炎シリーズは、「勉強だって全力で取り組みたい！」という熱い資格試験受験者のために用意したテキスト＆問題集です。
+現在、「乙種第4類危険物取扱者」「2級ボイラー技士」「消防設備士第6類」の3試験に対応したテキスト＆問題集が発売中。">
+    <meta property="fb:admins" content="100002509171990">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link href="/assets/css/books.css" rel="stylesheet" type="text/css">
+    <link href="/assets/css/bootstrap4.css" rel="stylesheet" type="text/css">
+
+    
+    <!-- Cxense script start -->
+<script type="text/javascript">
+  var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+  cX.CCE = cX.CCE || {}; cX.CCE.callQueue = cX.CCE.callQueue || [];
+  var cx_props = cx_props || {}; cx_props['k'] = [];
+  var cpl = [];
+  var spl = [];
+  cX.callQueue.push(['invoke', function() {
+    var cp = {}, sa = {};
+    var cpMaxLen = 40;
+    var cpKeyLen = 20;
+    try{
+      var refhost = cX.library._findRealReferrer().split('/')[2];
+      if(refhost && location.hostname !== refhost) {
+        cp["referrer_host"] = sa["referrer_host_S"] = refhost.slice(0,cpMaxLen);
+      }
+    }catch(e){}
+    var u = ["utm_source", "utm_medium", "utm_term", "utm_content", "utm_campaign"];
+    if((typeof(spl) !== "undefined") && (Object.prototype.toString.call(spl) === "[object Array]")) {
+      Array.prototype.push.apply(u, spl);
+    }
+    if(location.search) location.search.substring(1).split("&").forEach(function(k){
+      try{
+        var v = k.split("=");
+        if(v[0].slice(0,3)==="cx_" && v[1]) {
+          sa[v[0].replace(/^cx_/,"")+"_S"] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        } else if(u.indexOf(v[0].toLowerCase())!==-1 && v[1]) {
+          cp[v[0].toLowerCase().slice(0,cpKeyLen)] = sa[v[0].toLowerCase()+"_S"] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        } else if((typeof(cpl) !== "undefined") && (Object.prototype.toString.call(cpl) === "[object Array]") && (cpl.indexOf(v[0].toLowerCase())!==-1 && v[1])) {
+          cp[v[0].toLowerCase().slice(0,cpKeyLen)] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        }
+      }catch(e){}
+    });
+    if(!cX.getUserId(false)) {
+      cp["newuser"] = sa["newuser_S"] = "true";
+    }
+    else {
+      try{
+        var t = new Date().getTime() - parseInt(cX.library.m_atfr.match(/altm=(\d+)/)[1]);
+        if (t >= 1000*60*30) {
+          cX.stopAllSessionAnnotations();
+          var da = Math.floor(t/(1000*60*60*24));
+          if(da < 1) {
+            cp["elapsed"] = sa["elapsed_S"] = "\u0031\u65E5\u4EE5\u5185";
+          } else if(da < 7) {
+            cp["elapsed"] = sa["elapsed_S"] = String(da)+"\u65E5\u3076\u308A";
+          } else if(da < 31) {
+            cp["elapsed"] = sa["elapsed_S"] = String(Math.floor(da/7))+"\u9031\u9593\u3076\u308A";
+          } else if(da < 365) {
+            cp["elapsed"] = sa["elapsed_S"] = String(Math.floor(da/31))+"\u30F6\u6708\u3076\u308A";
+          } else {
+            cp["elapsed"] = sa["elapsed_S"] = "1\u5E74\u4EE5\u4E0A";
+          }
+        }
+      } catch(e) {}
+    }
+    var cx_eu = cX.getCookie('eu');
+    if (cx_eu){
+        cX.setCustomParameters({'status': 'login'});
+        cX.addExternalId({'id': cx_eu, 'type': 'sho'});
+    }
+    if (typeof eU !== 'undefined' && typeof eU.isLoggingIn === 'function') {
+        cX.setCustomParameters({'logging_in': eU.isLoggingIn()});
+    }
+    var cx_op = cX.getCookie('cx_op');
+    if (cx_op) {
+        cX.setCustomParameters({'optin_url': cx_op});
+    }
+
+    var originalRef=document.referrer;
+    if(originalRef.match(/faeb92b469b40c9d72e4-dc920caace12a27e58d45a42e86d29a2\.ssl\.cf2\.rackcdn\.com\/generic_v[0-9]+\.html/) || originalRef.match(/cdn\.cxpublic\.com\/generic_v[0-9]+\.html/)){
+        sa["cx_source_S"] = "cxrecs";
+    }
+    if(Object.keys(cp).length>0) {
+      cX.setCustomParameters(cp);
+    }
+    if(Object.keys(sa).length>0) {
+      cX.startSessionAnnotation(sa);
+    }
+    try {
+      "newuser_S" in cX.library._getSessionAnnotations() && cx_props['k'].push("newuser");
+    } catch(e) {}
+  }]);
+  cX.callQueue.push(['setSiteId', '1142970223097374056']);
+  cX.CCE.callQueue.push(['sendPageViewEvent']);
+
+</script>
+<script type="text/javascript">
+    var cX = window.cX = window.cX || {}; cX.callQueue = cX.callQueue || [];
+    cX.CCE = cX.CCE || {}; cX.CCE.callQueue = cX.CCE.callQueue || [];
+    (function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';e.src='https://cdn.cxense.com/cx.cce.js';t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+<!-- Cxense script end -->
+<!-- Cxense Customized script start -->
+<script type="text/javascript">
+  window.cXcustom = window.cXcustom || function() {(window.cXcustom.q = window.cXcustom.q || []).push(arguments)};
+  cX.callQueue.push(['invoke', function() {
+    var cx_reading_params = {origin: "sho-web", persistedQueryId: "15407cc43187c9b0981171abc4e9b4dc4e1d7c22"};
+    cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_entire_page:String(pos)+'%'}, cx_reading_params);} , 0, '', false, 1000);
+    cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_in_article:String(pos)+'%'}, cx_reading_params);}, 1, 'container_contents', true, 1000);
+    //    cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_in_articleBottom:String(pos)+'%'}, cx_reading_params);} , 2, 'top-menu', false, 1000);
+    cX.loadScript("/assets/js/cx-custom.js");
+  }]);
+</script>
+<!-- Cxense Customized script end -->
+    <!-- Facebook Pixel Code -->
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '1704151296468367'); fbq('track', 'PageView');</script><noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=1704151296468367&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->    
+
+  </head>
+  <body id="pagetop">
+    <div id="fb-root"></div>
+
+    <style type="text/css">
+
+</style>
+
+<link crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" rel="stylesheet" />
+<link href="//cdn.shoeisha.jp/secojp/static/images/freepage/48/css/fire.css" rel="stylesheet" type="text/css" />
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script><script src="//cdn.shoeisha.jp/secojp/static/images/freepage/48/js/bootstrap.js"></script><script src="//cdn.shoeisha.jp/secojp/static/images/freepage/48/js/jquery.smooth-scroll.js"></script><script>
+    $(document).ready(function() {
+      $('.navbar-nav li a').smoothScroll();
+	  $('.page-top a').smoothScroll();
+    });
+  </script>
+<div id="fire">
+  <div class="title">
+    <div class="container">
+      <img alt="" class="mx-auto img-fluid d-none d-md-block" src="//cdn.shoeisha.jp/secojp/static/images/freepage/48/images/title.png" /> <img alt="" class="img-fluid mx-auto d-block d-md-none" src="//cdn.shoeisha.jp/secojp/static/images/freepage/48/images/title-sp.png" />
+    </div>
+  </div>
+  <section>
+    <div class="container">
+      <div class="block">
+        <div>
+          炎シリーズは、「勉強だって全力で取り組みたい！」という熱い資格試験受験者のために用意したテキスト＆問題集です。
+        </div>
+        <div>
+          各試験に合わせて無駄なく絞り込んだ頻出テーマなので、効率よく合格を目指せます。図やイラストを豊富に掲載しているので、勉強が苦手な方でも安心して取り組めます。そして、熱い紙面デザインやメッセージ、漫画が読者の背中を押してくれるので、最後まで熱い気持ちで勉強をやりきることができます。
+        </div>
+        <p class="lead"></p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="container">
+      <div class="block">
+        <h2>シリーズの特徴</h2>
+        <p class="small">※以下、サンプルとして示したのは『工学教科書 炎の乙種第4類危険物取扱者 テキスト＆問題集』の紙面画像です。各タイトルによって、刷色の色数（4色や2色など）は異なりますので、ご容赦ください。</p>
+        <div class="row mb-3 mb-md-5">
+          <div class="col-md-6">
+            <img alt="" class="d-block img-fluid mx-auto border mb-3" src="//cdn.shoeisha.jp/secojp/static/images/freepage/48/images/01.jpg" />
+          </div>
+          <div class="col-md-6">
+            <h3>黄金の3ステップ方式！</h3>
+            <p>1テーマを「図解→解説→暗記」の3ステップで構成しているから、リズムよくトレーニングができるんだ！　知らないことでも図解があればイメージができる。イメージができれば解説が理解がしやすくなる。解説が理解できれば暗記がしやすくなる。これが黄金の3ステップ方式だ！！</p>
+          </div>
+        </div>
+        <div class="row mb-3 mb-md-5">
+          <div class="col-md-6">
+            <img alt="" class="d-block img-fluid mx-auto border mb-3" src="//cdn.shoeisha.jp/secojp/static/images/freepage/48/images/02.jpg" />
+          </div>
+          <div class="col-md-6">
+            <h3>Step1 まずイメージしろ！</h3>
+            <p>百聞は一見に如かず！　各テーマの重要ポイントは「Step1 図解」でつかめ！　解説をごちゃごちゃ聞くよりも、まずはビジュアルでモノを見た方が、何の話をしているのか把握しやすいだろう？　ここでポイントの大筋を捉えてから、Step2の解説へ進むんだ！</p>
+          </div>
+        </div>
+        <div class="row mb-3 mb-md-5">
+          <div class="col-md-6">
+            <img alt="" class="d-block img-fluid mx-auto border mb-3" src="//cdn.shoeisha.jp/secojp/static/images/freepage/48/images/03.jpg" />
+          </div>
+          <div class="col-md-6">
+            <h3>Step2 理解を深めろ！</h3>
+            <p>3ステップの核となるのはこの「Step2 解説」だ！　爆裂に読み込んで、図解で見た内容を理解できるようにしよう！　図で仕組みを示したり、表でポイントをまとめたり、工夫を凝らしているぞ！　また、ちょっとしたアドバイスなどが吹き出しで入っているから、どんなところに重点を置いて学べばいいのかよくわかるぞ。</p>
+          </div>
+        </div>
+        <div class="row mb-3 mb-md-5">
+          <div class="col-md-6">
+            <img alt="" class="d-block img-fluid mx-auto border mb-3" src="//cdn.shoeisha.jp/secojp/static/images/freepage/48/images/04.jpg" />
+          </div>
+          <div class="col-md-6">
+            <h3>Step3 根性で覚えろ！</h3>
+            <p>各テーマのまとめは「Step3 暗記」だ！　内容が本当に理解できたか、重要ポイントが覚えられたか、ここで確認しよう！　最低限ではあるが、この内容が覚えられていれば、そのテーマのポイントは把握できるぞ。書籍に付属されているレッドシート（赤シート）は、ここで活躍するぞ！</p>
+          </div>
+        </div>
+        <div class="row mb-3 mb-md-5">
+          <div class="col-md-6">
+            <img alt="" class="d-block img-fluid mx-auto border mb-3" src="//cdn.shoeisha.jp/secojp/static/images/freepage/48/images/05.jpg" />
+          </div>
+          <div class="col-md-6">
+            <h3>各章末には演習問題</h3>
+            <p>各章の仕上げは章末の演習問題（一問一答）だ！　端的にポイントを振り返ることができるから、習得度も確認できるぞ！　解きながら、試験で問われるポイントも把握していこう！　問題が解けなかったときは、各テーマに戻って復習だ！　解答部分に解説をしたテーマ数が書いてあるので、パッと該当するテーマに戻ることができるぞ！</p>
+          </div>
+        </div>
+        <div class="row mb-3 mb-md-5">
+          <div class="col-md-6">
+            <img alt="" class="d-block img-fluid mx-auto border mb-3" src="//cdn.shoeisha.jp/secojp/static/images/freepage/48/images/06.jpg" />
+          </div>
+          <div class="col-md-6">
+            <h3>豪華な読者特典！</h3>
+            <p>各タイトルには読者特典として、模擬問題や問題が解けるWebアプリ、レッドシート（赤シート）などを用意しているぞ！　特典内容はタイトルによって異なるから要チェックだ！　盛りだくさんの特典で、試験当日まで、グングンパワーアップしよう！　やる気を盛り上げるミニ漫画もぜひ楽しんでくれ！　</p>
+            <img class="d-block img-fluid ml-auto" src="//cdn.shoeisha.jp/secojp/static/images/freepage/48/images/webapli.png" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="container">
+      <div class="block">
+        <h2>シリーズ一覧</h2>
+        <div class="row mb-4">
+          <div class="col-md-4">
+            <a href="https://www.shoeisha.co.jp/book/detail/9784798167183" target="_blank"><img alt="" class="d-block img-fluid mx-auto border" src="https://www.seshop.com/static/images/product/24228/L.png" /></a>
+          </div>
+          <div class="col-md-8">
+            <h3><a href="https://www.shoeisha.co.jp/book/detail/9784798167183" target="_blank">工学教科書 炎の乙種第4類危険物取扱者 テキスト＆問題集</a></h3>
+            <p>佐藤 毅史 著<br />
+              発売日：2021年01月25日<br />
+              ISBN： 9784798167183<br />
+              定価：1,760円（本体1,600円＋税10%）</p>
+			  
+			  
+			  <div class="embed-responsive embed-responsive-16by9">
+				  
+				  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Lr-m-KBoL5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+          </div>
+        </div>
+        <div class="row mb-4">
+          <div class="col-md-4">
+            <a href="https://www.shoeisha.co.jp/book/detail/9784798172019" target="_blank"><img alt="" class="d-block img-fluid mx-auto border" src="https://www.seshop.com/static/images/product/24605/L.png" /></a>
+          </div>
+          <div class="col-md-8">
+            <h3><a href="https://www.shoeisha.co.jp/book/detail/9784798172019" target="_blank">工学教科書 炎の2級ボイラー技士 テキスト＆問題集</a></h3>
+            <p>石原 鉄郎 著<br />
+              発売日：2021年08月27日<br />
+              ISBN： 9784798172019<br />
+              定価：2,200円（本体2,000円＋税10%）</p>
+			    <div class="embed-responsive embed-responsive-16by9">
+			  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uPxW4X38XEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</div>
+			  
+          </div>
+        </div>
+        <div class="row mb-4">
+          <div class="col-md-4">
+            <a href="https://www.shoeisha.co.jp/book/detail/9784798171388" target="_blank"><img alt="" class="d-block img-fluid mx-auto border mb-3" src="https://www.seshop.com/static/images/product/24604/L.png" /></a>
+          </div>
+          <div class="col-md-8">
+            <h3><a href="https://www.shoeisha.co.jp/book/detail/9784798171388" target="_blank">工学教科書 炎の消防設備士第6類 テキスト＆問題集 </a></h3>
+            <p>佐藤 毅史 著<br />
+              発売日：2021年08月27日<br />
+              ISBN：9784798171388<br />
+              定価：2,420円（本体2,200円＋税10%）</p>
+			  
+			  <div class="embed-responsive embed-responsive-16by9">
+			  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/88Vo_xpoB-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</div>
+          </div>
+        </div>
+        <div class="row mb-4">
+          <div class="col-md-4">
+            <a href="https://www.shoeisha.co.jp/book/detail/9784798172293" target="_blank"><img alt="" class="d-block img-fluid mx-auto border" src="https://www.seshop.com/static/images/product/24768/L.png" /></a>
+          </div>
+          <div class="col-md-8">
+            <h3><a href="https://www.shoeisha.co.jp/book/detail/9784798172293" target="_blank">工学教科書 炎の毒物劇物取扱者 テキスト＆問題集</a></h3>
+            <p>佐藤 毅史 著<br />
+              発売日：2022年01月24日<br />
+              ISBN：9784798172293<br />
+              定価：1,980円（本体1,800円＋税10%）</p>
+			    <div class="embed-responsive embed-responsive-16by9">
+			  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wUv5FzuFyVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</div>
+          </div>
+        </div>
+        <div class="row mb-4">
+          <div class="col-md-4">
+            <a href="https://www.shoeisha.co.jp/book/detail/9784798172545" target="_blank"><img alt="" class="d-block img-fluid mx-auto border" src="https://www.seshop.com/static/images/product/24844/L.png" /></a>
+          </div>
+          <div class="col-md-8">
+            <h3><a href="https://www.shoeisha.co.jp/book/detail/9784798172545" target="_blank">建築土木教科書 炎のビル管理士 テキスト＆問題集</a></h3>
+            <p>石原 鉄郎 著<br />
+              発売日：2022年02月16日<br />
+              ISBN：9784798172545<br />
+              定価：2,860円（本体2,600円＋税10%）</p>
+			  <div class="embed-responsive embed-responsive-16by9">
+			  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/r5OYEFBMwpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			  </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+
+
+    <footer>
+            <div class="container support_link">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" href="#footer-press">お知らせ
+                  <span class="caret"></span>
+                </a>
+              </div>
+              <div id="footer-press" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <ul>
+                    <li>
+                      <a href="/press/detail/500">翔泳社書籍取り扱いオンラインストアのご案内</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" href="#support">読者の皆様へ
+                  <span class="caret"></span>
+                </a>
+              </div>
+              <div id="support" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <ul>
+                    <li>
+                      <a href="/book/errata">正誤表</a>
+                    </li>
+                    <li>
+                      <a href="/book/faq">よくある質問</a>
+                    </li>
+                    <li>
+                      <a href="/book/qa">刊行物Ｑ＆Ａ</a>
+                    </li>
+                    <li>
+                      <a href="/book/download">ダウンロード</a>
+                    </li>
+                    <li>
+                      <a href="/article">コラム</a>
+                    </li>
+                    <li>
+                      <a href="/ml">メールマガジン</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" href="#custmor">書店・法人様
+                  <span class="caret"></span>
+                </a>
+              </div>
+              <div id="custmor" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <ul>
+                    <li>
+                      <a href="/bookstore">書店様</a>
+                    </li>
+                    <li>
+                      <a href="/biz">企業・教育機関様</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+      </div>
+            <div class="link">
+       <div class="container">
+          <div class="row">
+            <div class="col-md-3">
+              <h2>会社情報</h2>
+              <ul>
+                <li>
+                  <a href="/">TOP</a>
+                </li>
+                <li>
+                  <a href="/about">会社案内</a>
+                </li>
+                 <li>
+                  <a href="/mission">企業理念</a>
+                </li>
+                <li>
+                  <a href="/service">サービス案内</a>
+                </li>
+                <li>
+                  <a href="/press">お知らせ</a>
+                </li>
+                <li>
+                  <a href="/ir">IR情報</a>
+                </li>
+                <li>
+                  <a href="/map">アクセス</a>
+                </li>
+                <li>
+                  <a href="/recruit">採用情報</a>
+                </li>
+                <li class="last">
+                  <a href="/contact">お問い合わせ</a>
+                </li>
+                <li>
+                  <a href="/privacy">個人情報保護</a>
+                </li>
+                <li>
+                  <a href="/exemption">免責事項</a>
+                </li>
+                <li>
+                  <a href="/privacy/social-policy/">SNS利用ポリシー</a>
+                </li>
+                <li>
+                 <a href="/social-media/">SNSアカウント一覧</a>
+                </li>
+                  
+                 <li>
+                  <a href="/toauthors">著作者様へ</a>
+                </li>
+                <li>
+                  <a href="https://shoeisha.jp" target="_blank">SHOEISHA iD</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2>運営サイト</h2>
+              <ul>
+                <li>
+                  <a href="/book/">本</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://codezine.jp/">プログラミング</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://enterprisezine.jp/">企業ITとマネジメント</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://markezine.jp/">マーケティング</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://moneyzine.jp/">株式投資</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://selectbox.shoeisha.jp/">ホワイトペーパー</a>
+                </li>
+                <li >
+                  <a target="_blank" href="https://eczine.jp/">ECマーケティング</a>
+                </li>
+                <li >
+                  <a target="_blank" href="https://bizzine.jp/">イノベーション</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://hrzine.jp/">人事</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://edtechzine.jp/">教育ICT</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://saleszine.jp/">セールス</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://event.shoeisha.jp/">イベント・セミナー</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.shoeisha.co.jp/ad/">広告掲載のご案内</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2>直販サイト</h2>
+              <ul>
+                <li>
+                  <a target="_blank" href="https://www.seshop.com/">SEshop.com</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2>グループ企業</h2>
+              <ul>
+                <li>
+                  <a target="_blank" href="http://www.sehi.co.jp/">SE H&amp;I</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.shoeishaacademy.co.jp/">翔泳社アカデミー</a>
+                  <ul style="list-style-type:disc;margin: 0 0 0 1.5em;">
+                        <li style="margin: 5px;">
+                          <a target="_blank" href="https://www.denken3.com/">電験三種</a>
+                        </li>
+                        <li style="margin: 5px;">
+                          <a target="_blank" href="https://www.denkou.info/">電気工事士講座</a>
+                        </li>
+                        <li style="margin: 5px;">
+                          <a target="_blank" href="https://www.denkou.info/kouza/denkou1/">第一種電気工事士</a>
+                        </li>
+                        <li  style="margin: 5px;">
+                          <a target="_blank" href="https://www.denkou.info/kouza/denkou2/">第二種電気工事士</a>
+                        </li>
+                  </ul>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.seplus.jp/">SEプラス</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5">
+            <div class="copyright">Copyright © 1985-2022 SHOEISHA, All rights reserved.</div>
+          </div>
+          <div class="col-md-7 companybanner">
+            <div class=" pull-right">
+              <a href="https://privacymark.jp/" target="_blank"><img alt="" src="/static/common/images/new/logos/logo-pm.svg"></a>
+              <a href="http://www.sehi.co.jp/" target="_blank"><img alt="" src="/static/common/images/ToshoStandardSEHIG_land.png"></a>
+              <img alt="" src="/static/common/images/abj_w.png"  style="display: inline;">
+              <p style="display: inline;float: right;width: 32%;font-size: 0.7rem;">ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標（登録番号 第12291000号）です。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <p id="page-top">
+      <a href="#pagetop">
+        <i class="fas fa-angle-up"></i>
+      </a>
+    </p>
+    <!-- TemplateEnd -->
+  </body>
+</html>

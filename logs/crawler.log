@@ -1,0 +1,28 @@
+[1;30m[DEBUG]	asctime:2022-05-08 17:13:33	process:22773	thread:4407920128	module:my_logging	/Users/kazuyaaoki/Desktop/programming/croller/my_logging.py:13	message:DEBUG level[0m
+[37m[INFO]	asctime:2022-05-08 17:13:33	process:22773	thread:4407920128	module:my_logging	/Users/kazuyaaoki/Desktop/programming/croller/my_logging.py:14	message:INFO level[0m
+[33m[WARNING]	asctime:2022-05-08 17:13:33	process:22773	thread:4407920128	module:my_logging	/Users/kazuyaaoki/Desktop/programming/croller/my_logging.py:15	message:WARNING level[0m
+[31m[ERROR]	asctime:2022-05-08 17:13:33	process:22773	thread:4407920128	module:my_logging	/Users/kazuyaaoki/Desktop/programming/croller/my_logging.py:16	message:ERROR level[0m
+[1;31m[CRITICAL]	asctime:2022-05-08 17:13:33	process:22773	thread:4407920128	module:my_logging	/Users/kazuyaaoki/Desktop/programming/croller/my_logging.py:17	message:CRITICAL level[0m
+[1;30m[DEBUG]	asctime:2022-05-08 17:14:27	process:22787	thread:4817675776	module:my_logging	/Users/kazuyaaoki/Desktop/programming/croller/my_logging.py:13	message:DEBUG level[0m
+[37m[INFO]	asctime:2022-05-08 17:14:27	process:22787	thread:4817675776	module:my_logging	/Users/kazuyaaoki/Desktop/programming/croller/my_logging.py:14	message:INFO level[0m
+[33m[WARNING]	asctime:2022-05-08 17:14:27	process:22787	thread:4817675776	module:my_logging	/Users/kazuyaaoki/Desktop/programming/croller/my_logging.py:15	message:WARNING level[0m
+[31m[ERROR]	asctime:2022-05-08 17:14:27	process:22787	thread:4817675776	module:my_logging	/Users/kazuyaaoki/Desktop/programming/croller/my_logging.py:16	message:ERROR level[0m
+[1;31m[CRITICAL]	asctime:2022-05-08 17:14:27	process:22787	thread:4817675776	module:my_logging	/Users/kazuyaaoki/Desktop/programming/croller/my_logging.py:17	message:CRITICAL level[0m
+[37m[INFO]	asctime:2022-05-09 23:10:37	process:24041	thread:4529276416	module:music	/Users/kazuyaaoki/Desktop/programming/croller/music.py:44	message:[main start][0m
+[37m[INFO]	asctime:2022-05-09 23:10:37	process:24041	thread:123145404690432	module:music	/Users/kazuyaaoki/Desktop/programming/croller/music.py:32	message:[download start] sleep: 3.5 01PavanePourUneInfanteDfuntePourPianoMr19.mp3[0m
+[37m[INFO]	asctime:2022-05-09 23:10:37	process:24041	thread:123145421479936	module:music	/Users/kazuyaaoki/Desktop/programming/croller/music.py:32	message:[download start] sleep: 3.0 02JeuxDeauPourPianoMr30.mp3[0m
+[37m[INFO]	asctime:2022-05-09 23:10:44	process:24041	thread:123145421479936	module:music	/Users/kazuyaaoki/Desktop/programming/croller/music.py:38	message:[download finished] 02JeuxDeauPourPianoMr30.mp3[0m
+[37m[INFO]	asctime:2022-05-09 23:10:44	process:24041	thread:123145421479936	module:music	/Users/kazuyaaoki/Desktop/programming/croller/music.py:32	message:[download start] sleep: 1.5 03SonatinePourPianoMr40-Modr.mp3[0m
+[37m[INFO]	asctime:2022-05-09 23:10:50	process:24041	thread:123145404690432	module:music	/Users/kazuyaaoki/Desktop/programming/croller/music.py:38	message:[download finished] 01PavanePourUneInfanteDfuntePourPianoMr19.mp3[0m
+[37m[INFO]	asctime:2022-05-09 23:10:50	process:24041	thread:123145404690432	module:music	/Users/kazuyaaoki/Desktop/programming/croller/music.py:32	message:[download start] sleep: 2.0 04MouvementDeMenuet.mp3[0m
+[37m[INFO]	asctime:2022-05-09 23:10:50	process:24041	thread:123145421479936	module:music	/Users/kazuyaaoki/Desktop/programming/croller/music.py:38	message:[download finished] 03SonatinePourPianoMr40-Modr.mp3[0m
+[37m[INFO]	asctime:2022-05-09 23:10:50	process:24041	thread:123145421479936	module:music	/Users/kazuyaaoki/Desktop/programming/croller/music.py:32	message:[download start] sleep: 1.5 05Anim.mp3[0m
+[37m[INFO]	asctime:2022-05-09 23:10:56	process:24041	thread:123145421479936	module:music	/Users/kazuyaaoki/Desktop/programming/croller/music.py:38	message:[download finished] 05Anim.mp3[0m
+[37m[INFO]	asctime:2022-05-09 23:11:02	process:24041	thread:123145404690432	module:music	/Users/kazuyaaoki/Desktop/programming/croller/music.py:38	message:[download finished] 04MouvementDeMenuet.mp3[0m
+[37m[INFO]	asctime:2022-05-09 23:11:02	process:24041	thread:4529276416	module:music	/Users/kazuyaaoki/Desktop/programming/croller/music.py:53	message:[main finished][0m
+[37m[INFO]	asctime:2022-05-10 21:44:00	process:37383	thread:4482119168	module:crawler_celery	/Users/kazuyaaoki/Desktop/programming/croller/crawler_celery.py:101	message:[main start][0m
+[37m[INFO]	asctime:2022-05-10 21:44:00	process:37383	thread:4482119168	module:crawler_celery	/Users/kazuyaaoki/Desktop/programming/croller/crawler_celery.py:105	message:[main finished][0m
+[37m[INFO]	asctime:2022-05-14 20:28:40	process:41389	thread:4579862016	module:crawler_celery	/Users/kazuyaaoki/Desktop/programming/croller/crawler_celery.py:101	message:[main start][0m
+[37m[INFO]	asctime:2022-05-14 20:28:40	process:41389	thread:4579862016	module:crawler_celery	/Users/kazuyaaoki/Desktop/programming/croller/crawler_celery.py:105	message:[main finished][0m
+[37m[INFO]	asctime:2022-05-14 20:34:55	process:41616	thread:4458751488	module:crawler_celery	/Users/kazuyaaoki/Desktop/programming/croller/crawler_celery.py:101	message:[main start][0m
+[37m[INFO]	asctime:2022-05-14 20:34:55	process:41616	thread:4458751488	module:crawler_celery	/Users/kazuyaaoki/Desktop/programming/croller/crawler_celery.py:105	message:[main finished][0m
