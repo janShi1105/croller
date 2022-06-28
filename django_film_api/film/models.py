@@ -8,7 +8,7 @@ class Language(models.Model):
     name = models.CharField(max_length=20)
     last_update = models.DateTimeField()
 
-    def __init__(self):
+    def __str__(self):
         return '%s %s' % (self.language_id, self.name)
 
     class Meta:
